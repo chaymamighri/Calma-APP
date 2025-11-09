@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 🎨 Couleurs de fond -->
+    <color name="white">#FFFFFF</color>
+    <color name="light_peach">#FFF9F4</color>
+    <color name="background_light">#FAFAFA</color>
+
+    <!-- 🌿 Couleurs principales -->
+    <color name="colorPrimary">#A8E6CF</color>          <!-- Vert menthe doux -->
+    <color name="colorPrimaryVariant">#81C784</color>   <!-- Variante un peu plus foncée -->
+    <color name="colorSecondary">#B39DDB</color>        <!-- Lavande douce -->
+    <color name="colorSecondaryVariant">#9575CD</color> <!-- Variante plus profonde -->
+    <color name="colorAccent">#FFD3B6</color>           <!-- Beige pastel -->
+
+
+
+    <!-- Couleurs pour les drawables -->
+    <color name="primaryColor">#A8E6CF</color>  <!-- pour baseline_home_24.xml -->
+    <color name="lavender">#B39DDB</color>      <!-- pour ic_articles, ic_breathing -->
+    <color name="mint_green">#A8E6CF</color>
+
+    <!-- 🩶 Texte et ombre -->
+    <color name="dark_gray">#333333</color>
+    <color name="gray">#999999</color>
+    <color name="light_shadow">#DDDDDD</color>
+</resources>

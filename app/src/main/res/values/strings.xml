@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calma</string>
+    <string name="streak">Streak</string>
+    <string name="articles">Articles</string>
+</resources>
